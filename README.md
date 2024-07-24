@@ -1,3 +1,5 @@
 # WaterlaCrystalCavern-master
 # UNREAL ENGINE 4.27
-link giới thiệu game https://drive.google.com/file/d/1NIuPwDNLQBmLp-YPtCYou73Fs76DN5sl/view?usp=sharing
+link giới thiệu game https://youtu.be/fkFffojhR_0
+# ABOUT GAME
+Trong vai là một trái bóng lấp lánh, hãy thu thập đủ những viên đá Crystal để có thể trở thành trái bóng thành công.
